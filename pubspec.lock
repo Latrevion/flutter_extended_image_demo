@@ -61,10 +61,10 @@ packages:
     dependency: "direct main"
     description:
       name: extended_image
-      sha256: "9786aab821aac117763d6e4419cd49f5031fbaacfe3fd212c5b313d0334c37a9"
+      sha256: c7b628bdbeb398bdd824cfc9d521f18e04b63ad2af811d182e885d3ae4ef45de
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "8.2.1"
+    version: "8.2.3"
   extended_image_library:
     dependency: transitive
     description:
@@ -378,4 +378,4 @@ packages:
     version: "1.0.4"
 sdks:
   dart: ">=3.3.4 <4.0.0"
-  flutter: ">=3.19.6"
+  flutter: ">=3.22.3"
